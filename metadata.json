@@ -1,0 +1,16 @@
+{
+  "name": "okx.web.app",
+  "symbol": "OKX",
+  "description": "USXR token. Not affiliated with Ripple, XRP Ledger, or any exchange.",
+  "image": "https://raw.githubusercontent.com/Alter-up/spl-usxr-clone-20260626142851-332989/main/ok-logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Alter-up/spl-usxr-clone-20260626142851-332989/main/ok-logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible"
+  }
+}
